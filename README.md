@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I'm Tom.
 
-<!--
-**TomsDroneTech/TomsDroneTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Drone Engineering and AI student at FH Kufstein, Austria.
 
-Here are some ideas to get you started:
+I am interested in robotics, autonomous drones, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning
+
+C++
+Algorithms and problem solving
+Robotics software
+
+Current Project
+
+cpp-learning-journey
+My daily progress learning C++. This repository contains exercises, notes, and small programs as I learn the language from scratch.
+
+Future Projects
+
+Drone simulator in C++
+Robotics algorithms
+Autonomous drone navigation
+
+Tools
+
+C++
+Python
+Git
+Visual Studio Code
+
+Interests
+
+Autonomous drones
+Robotics systems
+Artificial intelligence
+Embedded systems
