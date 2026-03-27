@@ -18,24 +18,35 @@ closer to the hardware in future drone and robotics projects.
 ---
 
 ## 📈 C++ Progress
+
 - [x] Chapter 1 — C++ Basics
 - [ ] Chapter 2 — Functions & Files
 - [ ] Chapter 3 — Debugging
-- [ ] Chapter 4 — Data Types
+- [ ] Chapter 4 — Fundamental Data Types
 - [ ] Chapter 5 — Constants & Strings
 - [ ] Chapter 6 — Operators
-- [ ] Chapter 7 — Scope & Duration
+- [ ] Chapter 7 — Scope, Duration & Linkage
 - [ ] Chapter 8 — Control Flow
-- [ ] Chapter 9 — Error Detection
-- [ ] Chapter 10 — Type Conversion
-- [ ] Chapter 11 — Function Overloading
+- [ ] Chapter 9 — Error Detection & Handling
+- [ ] Chapter 10 — Type Conversion & Type Deduction
+- [ ] Chapter 11 — Function Overloading & Templates
 - [ ] Chapter 12 — References & Pointers
-- [ ] Chapter 13 — OOP Basics
-- [ ] Chapter 14 — Operator Overloading
-- [ ] Chapter 15 — Move Semantics
-- [ ] Chapter 16 — STL & Templates
-- [ ] Chapter 17 — Iterators & Algorithms
-
+- [ ] Chapter 13 — Enums & Structs
+- [ ] Chapter 14 — Introduction to Classes
+- [ ] Chapter 15 — More on Classes
+- [ ] Chapter 16 — Dynamic Arrays
+- [ ] Chapter 17 — Fixed-size Arrays
+- [ ] Chapter 18 — Iterators & Algorithms
+- [ ] Chapter 19 — Dynamic Allocation
+- [ ] Chapter 20 — Advanced Functions
+- [ ] Chapter 21 — Operator Overloading
+- [ ] Chapter 22 — Move Semantics & Smart Pointers
+- [ ] Chapter 23 — Object Relationships
+- [ ] Chapter 24 — Inheritance
+- [ ] Chapter 25 — Virtual Functions & Polymorphism
+- [ ] Chapter 26 — Templates & Classes
+- [ ] Chapter 27 — Exceptions
+- [ ] Chapter 28 — Input & Output
 ---
 
 ## 🛠️ Current Project
